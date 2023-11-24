@@ -146,6 +146,6 @@ def cal_accuracy(y_pred, y):
 
 ![image-20231124101022244](./assets/image-20231124101022244.png)
 
-轮数为500，学习率为0.5
+损失曲线如下
 
 ![image-20231124101353579](./assets/image-20231124101353579.png)

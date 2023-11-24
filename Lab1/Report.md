@@ -6,7 +6,7 @@
 
 <center>2110951 梁晓储</center>
 
-
+本次作业已发送到[Github仓库](https://github.com/WangshuXC/Machine_learning)
 
 ## 实验要求
 
